@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HectorBlisS/prework/issues"
   },
-  "homepage": "https://github.com/HectorBlisS/prework#readme"
+  "homepage": "https://github.com/HectorBlisS/prework#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
